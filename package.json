@@ -2,11 +2,15 @@
 	"author": "nikoleta",
 	"description": "this is the json file",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": ["freecodecamp", "words"],
+	"keywords": [
+		"freecodecamp",
+		"words"
+	],
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
-		"express": "2.14.0"
+		"express": "4.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
