@@ -3,6 +3,7 @@
 	"description": "this is the json file",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": ["freecodecamp", "words"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
